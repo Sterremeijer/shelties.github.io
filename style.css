@@ -1,0 +1,77 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image:	url('http://www.caniamano.nl/Top/header2.jpg');
+}
+.blok {
+  background-color: #ff6666;
+  border: 20px solid #ff8080; 
+  margin: 50px auto;
+  width: 750px;
+  height: 750px;
+}
+.plaatje1 {
+  margin: auto;
+  display: block;
+}
+.plaatje2 {
+  margin: auto;
+  display: block;
+}
+.plaatje3 {
+  margin: auto;
+  display: block;
+}
+.plaatje4 {
+  margin: auto;
+  display: block;
+}
+.blok2 {
+  background-color: #ff6666;
+  border: 20px solid #ff8080; 
+  margin: 10px auto;
+  width: 750px;
+  height: 500px;
+}
+.blok3 {
+  background-color: #ff6666;
+  border: 20px solid #ff8080; 
+  margin: 10px auto;
+  width: 750px;
+  height: 700px;
+}
+.blok4 {
+  background-color: #ff6666;
+  border: 20px solid #ff8080; 
+  margin: 50px auto;
+  width: 750px;
+  height: 1350px;
+}
+
+
+h1, p
+{
+  color: white;
+  text-align: inherit;
+}
+h2, p
+{
+  color: white;
+  text-align: center;
+}
+p, p
+{
+  color: white;
+  text-align: inherit
+}
+
+li {
+  float: left; 
+  list-style: none;
+  margin-left: 10px;
+  color: white
+  }
+ul {
+  background-color: #ff8080;
+  color: white;
+  text-align: inherit
+}
